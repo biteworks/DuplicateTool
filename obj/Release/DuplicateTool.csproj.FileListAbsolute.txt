@@ -1,0 +1,5 @@
+C:\Development\DuplicateTool\bin\Release\DuplicateTool.exe.config
+C:\Development\DuplicateTool\bin\Release\DuplicateTool.exe
+C:\Development\DuplicateTool\bin\Release\DuplicateTool.pdb
+C:\Development\DuplicateTool\obj\Release\DuplicateTool.exe
+C:\Development\DuplicateTool\obj\Release\DuplicateTool.pdb
