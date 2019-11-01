@@ -1,0 +1,6 @@
+C:\Development\DuplicateTool\bin\Debug\DuplicateTool.exe.config
+C:\Development\DuplicateTool\bin\Debug\DuplicateTool.exe
+C:\Development\DuplicateTool\bin\Debug\DuplicateTool.pdb
+C:\Development\DuplicateTool\obj\Debug\DuplicateTool.csprojAssemblyReference.cache
+C:\Development\DuplicateTool\obj\Debug\DuplicateTool.exe
+C:\Development\DuplicateTool\obj\Debug\DuplicateTool.pdb
