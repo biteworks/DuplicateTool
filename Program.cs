@@ -20,8 +20,8 @@ namespace DuplicateTool
 
                 //Get Date
                 string currentYear = DateTime.Now.Year.ToString();
-                string currentMonth = DateTime.Now.Month.ToString();
-                string currentDay = DateTime.Now.Day.ToString().PadLeft(2, '0'); ;
+                string currentMonth = DateTime.Now.Month.ToString().PadLeft(2, '0');
+                string currentDay = DateTime.Now.Day.ToString().PadLeft(2, '0');
                 string date = currentYear + "-" + currentMonth + "-" + currentDay;
 
                 //File
